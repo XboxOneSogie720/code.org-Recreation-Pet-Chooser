@@ -18,3 +18,5 @@ Once it's installed, open the app and it will work!
 
 
 ## Download [AltStore](https://altstore.io)
+## Download [Sideloadly](https://sideloadly.io)
+## Download Filza File Manager: **com.tigisoftware.filza64bit**
