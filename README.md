@@ -6,7 +6,7 @@ AltStore, Filza, or something similar.
 
 Once it's installed, open the app and it will work!
 
-Build info:
+**Build info**
 
 OS Target of ipa: ```iOS 14.0``` a <br />
 
