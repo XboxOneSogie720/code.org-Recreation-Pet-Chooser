@@ -17,4 +17,4 @@ Once it's installed, open the app and it will work!
 **Devices Tested On:** ```iPhone SE (1st generation), iPhone 12 Pro```a <br />
 
 
-## Download AltStore[https://altstore.io]
+## Download [AltStore](https://altstore.io)
