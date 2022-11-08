@@ -8,13 +8,13 @@ Once it's installed, open the app and it will work!
 
 ## Build info
 
-**OS Target of ipa:** ```iOS 14.0``` a <br />
+**OS Target of ipa:** ```iOS 14.0``` <br />
 
-**ipa Obtained By:** ```Extracting through Filza```a <br />
+**ipa Obtained By:** ```Extracting through Filza``` <br />
 
-**OS Versions Tested On:** ```iOS 14.0, iOS 15.6.1, iOS 16.0```a <br />
+**OS Versions Tested On:** ```iOS 14.0, iOS 15.6.1, iOS 16.0``` <br />
 
-**Devices Tested On:** ```iPhone SE (1st generation), iPhone 12 Pro```a <br />
+**Devices Tested On:** ```iPhone SE (1st generation), iPhone 12 Pro``` <br />
 
 
 ## Download [AltStore](https://altstore.io)
